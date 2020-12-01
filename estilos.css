@@ -1,0 +1,55 @@
+header{
+background-color: blue;
+width: 100%;
+height: 100px;
+font-family: serif;
+text-align: center;
+padding-top: 50px;
+border: solid;
+}
+nav{
+background-color: violet;
+width: 100%;
+height: 100px;
+font-family: sans-serif;
+text-align: center;
+padding-top: 50px;
+border: solid;
+}
+section{
+background-color: red;
+width: 50%;
+height: 200px;
+float: left;
+font-family: 'Dancing Script', cursive;
+text-align: center;
+}
+article{
+background-color: green;
+width: 50%;
+height: 100px;
+clear: both;
+font-family: cursive;
+text-align: center;
+border: solid;
+margin: auto;
+}
+aside{
+background-color: pink;
+width: 50%;
+height: 200px;
+float: right;
+font-family: monospace;
+text-align: center;
+}
+footer{
+background-color: yellow;
+width: 100%;
+height: 100px;
+clear: both;
+font-family: 'Big Shoulders Stencil Display', cursive;
+text-align: center;
+padding-top: 50px;
+border: solid;
+}
+
